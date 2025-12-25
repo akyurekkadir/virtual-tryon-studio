@@ -15,12 +15,16 @@ An AI-powered virtual try-on application that uses ComfyUI backend with IDM-VTON
 - **Modern UI**: Clean, minimalist interface with maximum readability
 - **Multiple Output Support**: Tries multiple methods to retrieve results (API, direct file access, newest file)
 
-## 🎯 Demo
-
 Upload a model photo and a garment photo, select category, and get:
 - Virtual try-on result
-- Color harmony score (0-100)
+- Color harmony score (0–100)
 - Generated mask (debug view)
+
+### ▶️ Demo Video
+
+[![Virtual Try-On Studio Demo](https://img.youtube.com/vi/mclvx8pwn74/0.jpg)](https://youtu.be/mclvx8pwn74)
+
+Direct link: https://youtu.be/mclvx8pwn74
 
 ## 🛠️ Requirements
 
